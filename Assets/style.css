@@ -74,7 +74,14 @@ nav{
     border-radius: 25px;
     box-shadow: 10px  3px rgb(39, 34, 6);
 }
+#picture-box3{
 
+    width:75%;
+    height: fit-content;
+    position:relative ;
+    bottom: 30px;
+
+}
 .pop{
     flex: 1 0 100px;
     color: gold;
